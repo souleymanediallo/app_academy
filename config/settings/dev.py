@@ -31,7 +31,6 @@ INSTALLED_APPS = [
     'courses.apps.CoursesConfig',
     'pages.apps.PagesConfig',
     'accounts.apps.AccountsConfig',
-    'storages',
 ]
 
 MIDDLEWARE = [
